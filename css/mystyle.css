@@ -1,0 +1,40 @@
+body {
+    /*background-color: red;*/
+    background: url('../img/programing.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Sansita', sans-serif;
+}
+
+.ImgSkills {
+  width: 100px;
+  height: 100px;
+}
+
+#mPhoto {
+  border-radius: 50%;
+
+  max-height: 500px;
+  min-height: 100px;
+
+  max-width: 500px;
+  min-width: 100px
+
+}
+.jumbotron {
+ max-height: 100%;
+
+}
+.col-md-6{
+  padding: 0;
+}
+.well{
+  height: auto;
+}
+
+#jumbo1{
+  margin-top: 55px;
+}
+.linkImg{
+  height: 50px;
+  width: 50px;
+}
