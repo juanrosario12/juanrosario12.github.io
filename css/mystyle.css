@@ -1,5 +1,5 @@
 body {
-    /*background-color: red;*/
+  
     background: url('../img/programing.jpg') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Sansita', sans-serif;
@@ -13,10 +13,10 @@ body {
 #mPhoto {
   border-radius: 50%;
 
-  max-height: 500px;
+  max-height: 300px;
   min-height: 100px;
 
-  max-width: 500px;
+  max-width: 300px;
   min-width: 100px
 
 }
